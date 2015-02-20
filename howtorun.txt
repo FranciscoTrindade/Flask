@@ -1,0 +1,5 @@
+  501  cd myproject/
+  502  virtualenv venv
+  503  . venv/bin/activate
+  512  cd flask/
+  513  python routes.py 
